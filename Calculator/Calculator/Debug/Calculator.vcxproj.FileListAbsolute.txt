@@ -1,0 +1,9 @@
+C:\Users\fastr\source\repos\Calculator\Calculator\Debug\Calculator.vcxproj.AssemblyReference.cache
+C:\Users\fastr\source\repos\Calculator\Calculator\Debug\Calculator.MyForm.resources
+C:\Users\fastr\source\repos\Calculator\Calculator\Debug\Calculator.vcxproj.GenerateResource.cache
+C:\Users\parke\Downloads\Calculator\Calculator\Debug\Calculator.vcxproj.AssemblyReference.cache
+C:\Users\parke\Downloads\Calculator\Calculator\Debug\Calculator.MyForm.resources
+C:\Users\parke\Downloads\Calculator\Calculator\Debug\Calculator.vcxproj.GenerateResource.cache
+C:\Users\parke\source\repos\Calculator\Calculator\Debug\Calculator.vcxproj.AssemblyReference.cache
+C:\Users\parke\source\repos\Calculator\Calculator\Debug\Calculator.MyForm.resources
+C:\Users\parke\source\repos\Calculator\Calculator\Debug\Calculator.vcxproj.GenerateResource.cache
