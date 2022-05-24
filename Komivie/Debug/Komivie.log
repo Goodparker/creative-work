@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\parke\source\repos\Komivie\Header.h(445,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\parke\source\repos\Komivie\Header.h(448,20): warning C4018: <: несоответствие типов со знаком и без знака
+  Komivie.vcxproj -> C:\Users\parke\source\repos\Komivie\Debug\Komivie.exe
